@@ -33,7 +33,7 @@ A .NET Core API project implementing CRUD operations for managing employees, fol
 ### Prerequisites
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
-- Database server (e.g., SQL Server)
+- Database server (e.g., PostgreSQL)
 - IDE (Visual Studio, VS Code, Rider, etc.)
 
 ### Installation
@@ -42,4 +42,3 @@ A .NET Core API project implementing CRUD operations for managing employees, fol
 
    ```bash
    git clone https://github.com/CRUD-Task/Backend.git
-   cd employee-management-api
