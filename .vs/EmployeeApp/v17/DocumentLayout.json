@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Testing task\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|d:\\testing task\\backend\\employeeapp.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|solutionrelative:employeeapp.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|d:\\testing task\\backend\\employeeapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|solutionrelative:employeeapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\commands\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\commands\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|d:\\testing task\\backend\\employeeapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|solutionrelative:employeeapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|d:\\testing task\\backend\\employeeapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|solutionrelative:employeeapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E044EF-0FFA-4225-82B9-CD036F39DF10}|EmployeeApp.Domain\\EmployeeApp.Domain.csproj|d:\\testing task\\backend\\employeeapp.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E044EF-0FFA-4225-82B9-CD036F39DF10}|EmployeeApp.Domain\\EmployeeApp.Domain.csproj|solutionrelative:employeeapp.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\handlers\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\handlers\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\handlers\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\handlers\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\handlers\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\handlers\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\handlers\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\handlers\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\handlers\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\handlers\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employeeapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employeeapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\queries\\getallemployeesquery .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\queries\\getallemployeesquery .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\employees\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\employees\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|d:\\testing task\\backend\\employeeapp.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|solutionrelative:employeeapp.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|d:\\testing task\\backend\\employeeapp.infrastructure\\employeeapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|solutionrelative:employeeapp.infrastructure\\employeeapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E044EF-0FFA-4225-82B9-CD036F39DF10}|EmployeeApp.Domain\\EmployeeApp.Domain.csproj|d:\\testing task\\backend\\employeeapp.domain\\employeeapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8E044EF-0FFA-4225-82B9-CD036F39DF10}|EmployeeApp.Domain\\EmployeeApp.Domain.csproj|solutionrelative:employeeapp.domain\\employeeapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|d:\\testing task\\backend\\employeeapp.api\\employeeapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|solutionrelative:employeeapp.api\\employeeapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|d:\\testing task\\backend\\employeeapp.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC157B8-C756-404E-BE88-27859DDD00FF}|EmployeeApp.API\\EmployeeApp.API.csproj|solutionrelative:employeeapp.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|d:\\testing task\\backend\\employeeapp.application\\common\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C54CEA-BD0F-436D-9FC9-054C541604F2}|EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:employeeapp.application\\common\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|d:\\testing task\\backend\\employeeapp.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|solutionrelative:employeeapp.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|d:\\testing task\\backend\\employeeapp.infrastructure\\persistence\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8237E926-9454-49E4-9647-EDD84653FB61}|EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj|solutionrelative:employeeapp.infrastructure\\persistence\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E044EF-0FFA-4225-82B9-CD036F39DF10}|EmployeeApp.Domain\\EmployeeApp.Domain.csproj|d:\\testing task\\backend\\employeeapp.domain\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E044EF-0FFA-4225-82B9-CD036F39DF10}|EmployeeApp.Domain\\EmployeeApp.Domain.csproj|solutionrelative:employeeapp.domain\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T22:39:54.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:18:45.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Commands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Commands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:18:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Commands\\UpdateEmployeeCommand.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Commands\\UpdateEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:04:42.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:02:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllEmployeesQueryHandler.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:57:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllEmployeesQuery .cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Queries\\GetAllEmployeesQuery .cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Queries\\GetAllEmployeesQuery .cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Queries\\GetAllEmployeesQuery .cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Queries\\GetAllEmployeesQuery .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:57:06.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEmployeeByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:40:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Queries\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Queries\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:39:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "EmployeeApp.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:19:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Common\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Common\\Results\\Result.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Common\\Results\\Result.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Common\\Results\\Result.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:14:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeApp.Domain",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Domain\\EmployeeApp.Domain.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp.Domain\\EmployeeApp.Domain.csproj",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Domain\\EmployeeApp.Domain.csproj",
+              "RelativeToolTip": "EmployeeApp.Domain\\EmployeeApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T14:02:10.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApp.API\\appsettings.json",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.API\\appsettings.json",
+              "RelativeToolTip": "EmployeeApp.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T14:17:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeApp.Infrastructure",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj",
+              "RelativeToolTip": "EmployeeApp.Infrastructure\\EmployeeApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T13:55:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "EmployeeApp.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:54:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeApp.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvywAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:32:50.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\AssemblyReference.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:22:37.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeApp.Application",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "RelativeToolTip": "EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T13:23:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:23:03.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeApp.API",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.API\\EmployeeApp.API.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp.API\\EmployeeApp.API.csproj",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.API\\EmployeeApp.API.csproj",
+              "RelativeToolTip": "EmployeeApp.API\\EmployeeApp.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T13:19:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:11:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Commands\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\Commands\\CreateEmployeeCommand.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\Commands\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\Commands\\CreateEmployeeCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:10:50.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Application\\Employees\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Application\\Employees\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeApp.Application\\Employees\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:05:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.API\\Program.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.API\\Program.cs",
+              "RelativeToolTip": "EmployeeApp.API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:36:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\Persistence\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Infrastructure\\Persistence\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\Persistence\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeApp.Infrastructure\\Persistence\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:32:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeApp.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:31:57.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeApp.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:30:04.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Testing task\\backend\\EmployeeApp.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApp.Domain\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Testing task\\backend\\EmployeeApp.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeApp.Domain\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:28:49.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

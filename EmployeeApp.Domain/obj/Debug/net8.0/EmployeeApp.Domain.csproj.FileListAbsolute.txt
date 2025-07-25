@@ -1,0 +1,11 @@
+D:\Testing task\backend\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.deps.json
+D:\Testing task\backend\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.dll
+D:\Testing task\backend\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.pdb
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.AssemblyInfoInputs.cache
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.AssemblyInfo.cs
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.csproj.CoreCompileInputs.cache
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.dll
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\refint\EmployeeApp.Domain.dll
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.pdb
+D:\Testing task\backend\EmployeeApp.Domain\obj\Debug\net8.0\ref\EmployeeApp.Domain.dll

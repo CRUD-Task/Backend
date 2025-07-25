@@ -1,0 +1,15 @@
+D:\Testing task\backend\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.deps.json
+D:\Testing task\backend\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.dll
+D:\Testing task\backend\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Application.pdb
+D:\Testing task\backend\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Domain.dll
+D:\Testing task\backend\EmployeeApp.Application\bin\Debug\net8.0\EmployeeApp.Domain.pdb
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.csproj.AssemblyReference.cache
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.AssemblyInfoInputs.cache
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.AssemblyInfo.cs
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.csproj.CoreCompileInputs.cache
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\Employee.5A67289D.Up2Date
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.dll
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\refint\EmployeeApp.Application.dll
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\EmployeeApp.Application.pdb
+D:\Testing task\backend\EmployeeApp.Application\obj\Debug\net8.0\ref\EmployeeApp.Application.dll

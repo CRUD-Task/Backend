@@ -1,0 +1,17 @@
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Infrastructure.deps.json
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Infrastructure.dll
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Infrastructure.pdb
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Application.dll
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Domain.dll
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Domain.pdb
+D:\Testing task\backend\EmployeeApp.Infrastructure\bin\Debug\net8.0\EmployeeApp.Application.pdb
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.AssemblyInfo.cs
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\Employee.30060E08.Up2Date
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.dll
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\refint\EmployeeApp.Infrastructure.dll
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\EmployeeApp.Infrastructure.pdb
+D:\Testing task\backend\EmployeeApp.Infrastructure\obj\Debug\net8.0\ref\EmployeeApp.Infrastructure.dll
